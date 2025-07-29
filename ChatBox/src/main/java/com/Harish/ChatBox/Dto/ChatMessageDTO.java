@@ -6,6 +6,7 @@ public class ChatMessageDTO {
     private String content;
 
     public String getRoomId(){
+
         return roomId;
     }
     public void setRoomId(String roomId){
